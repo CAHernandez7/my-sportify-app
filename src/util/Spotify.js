@@ -1,5 +1,5 @@
 const clientId = 'b1b8e95701444142b3887933449bd7cf';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'http://apps.mango-devlab.com';
 
 let accessToken;
 
